@@ -8,10 +8,10 @@
             <StackLayout
                 Padding="15"
                 BackgroundColor="White">
-              
+               
 
                 <Image
-                    Source="">
+                    Source ="">
                 </Image>
 
                 <Grid>
